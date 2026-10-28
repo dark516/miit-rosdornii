@@ -1,0 +1,28 @@
+# macOS and editor files
+.DS_Store
+._*
+*~
+*.swp
+
+# Local dependencies and temporary output
+node_modules/
+tmp/
+*.log
+*.tmp
+*.bak
+
+# Office lock files
+~$*.pptx
+~$*.docx
+~$*.xlsx
+
+# Generated archives
+*.zip
+
+# The final video is large and is uploaded separately from the repository.
+03_Видеозащита/*.mov
+03_Видеозащита/*.mp4
+03_Видеозащита/*.mkv
+03_Видеозащита/*.avi
+03_Видеозащита/*.webm
+
