@@ -139,4 +139,3 @@
 - [ ] Add a headless CLI acceptance test that runs the scenario, exports files and verifies finite metrics.
 - [ ] Document exact setup/build/run commands, realized scope, simplifications, limits and Frob inspection commands.
 - [ ] Run the full pytest suite, colcon build and a headless scenario; inspect generated CSV/JSON.
-
